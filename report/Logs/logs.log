@@ -1,0 +1,20 @@
+2020-03-21 15:04:15,564 [main] INFO  (LogUtil.java:17) -  			 Click on info email. in PaymentMethodPage for BeinSports
+2020-03-21 15:04:15,669 [main] INFO  (LogUtil.java:17) -  			 Get text to total amount. in PaymentMethodPage for BeinSports
+2020-03-21 15:04:15,738 [main] INFO  (LogUtil.java:17) -  			 Click on Terms and Conditions. in PaymentMethodPage for BeinSports
+2020-03-21 15:04:15,883 [main] INFO  (LogUtil.java:17) -  			 Click on pay now. in PaymentMethodPage for BeinSports
+2020-03-21 15:04:16,059 [main] INFO  (LogUtil.java:17) - 	S.6- Scenario Finish: Make Payment with Credit Card in PaymentMethodPage STATUS= PASSED
+2020-03-21 15:04:16,066 [main] INFO  (LogUtil.java:17) - 	S.7- Scenario Start: Entering credit card information and making payment in CardInfoPage Test in BeinSports
+2020-03-21 15:04:16,072 [main] INFO  (LogUtil.java:17) -  		CardInfoPage created for BeinSports
+2020-03-21 15:04:16,072 [main] INFO  (LogUtil.java:17) -  			 Set text to the Card Name. in CardInfoPage for BeinSports
+2020-03-21 15:04:20,640 [main] INFO  (LogUtil.java:17) -  			 Set text to the Card Number. in CardInfoPage for BeinSports
+2020-03-21 15:04:20,936 [main] INFO  (LogUtil.java:17) -  			 Click on Months in CardInfoPage for BeinSports
+2020-03-21 15:04:21,085 [main] INFO  (LogUtil.java:17) -  			 Set text to the Month. in CardInfoPage for BeinSports
+2020-03-21 15:04:22,605 [main] INFO  (LogUtil.java:17) -  			 Click on Years in CardInfoPage for BeinSports
+2020-03-21 15:04:22,780 [main] INFO  (LogUtil.java:17) -  			 Set text to the Year. in CardInfoPage for BeinSports
+2020-03-21 15:04:24,215 [main] INFO  (LogUtil.java:17) -  			 Set text to the Card Verification. in CardInfoPage for BeinSports
+2020-03-21 15:04:24,321 [main] INFO  (LogUtil.java:17) -  			 Click on Confirm Payment. in CardInfoPage for BeinSports
+2020-03-21 15:04:35,171 [main] INFO  (LogUtil.java:17) -  			 Get text to payment result message. in CardInfoPage for BeinSports
+2020-03-21 15:04:35,257 [main] INFO  (LogUtil.java:17) - 	S.7- Scenario Finish: Entering credit card information and making payment in CardInfoPage STATUS= FAILED
+2020-03-21 15:04:35,270 [main] INFO  (LogUtil.java:17) - 	S.8- Scenario Start: Finish Browser And Test in Base Test in BeinSports
+2020-03-21 15:04:35,271 [main] INFO  (LogUtil.java:17) - 4- The Browser is finish. Browser Name: chrome Completed Time:87787
+2020-03-21 15:04:36,410 [main] INFO  (LogUtil.java:17) - 	S.8- Scenario Finish: Finish Browser And Test in Base STATUS= PASSED

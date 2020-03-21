@@ -1,0 +1,31 @@
+2020-03-21 15:03:07,478 [main] INFO  (LogUtil.java:17) - 	S.1- Scenario Start: Start To Browser And Test in Base Test in BeinSports
+2020-03-21 15:03:07,483 [main] INFO  (LogUtil.java:17) - 1- Digiturk's web test automation begins.
+2020-03-21 15:03:07,484 [main] INFO  (LogUtil.java:17) - 2- Browser Name: Chrome The Browser is getting ready to run.
+2020-03-21 15:03:15,463 [main] INFO  (LogUtil.java:17) - 	S.1- Scenario Finish: Start To Browser And Test in Base STATUS= PASSED
+2020-03-21 15:03:15,465 [main] INFO  (LogUtil.java:17) - 	S.2- Scenario Start: Navigate to website in Base Test in BeinSports
+2020-03-21 15:03:15,466 [main] INFO  (LogUtil.java:17) - 3- https://connect-th.beinsports.com/en web test started.
+2020-03-21 15:03:39,781 [main] INFO  (LogUtil.java:17) - 	S.2- Scenario Finish: Navigate to website in Base STATUS= PASSED
+2020-03-21 15:03:39,784 [main] INFO  (LogUtil.java:17) - 	S.3- Scenario Start: Subscription start in HomePage Test in BeinSports
+2020-03-21 15:03:39,820 [main] INFO  (LogUtil.java:17) -  		HomePage created for BeinSports
+2020-03-21 15:03:39,820 [main] INFO  (LogUtil.java:17) -  			 Wait for the new page to load. in HomePage for BeinSports
+2020-03-21 15:03:42,214 [main] INFO  (LogUtil.java:17) -  			 Click on subscribe button. in HomePage for BeinSports
+2020-03-21 15:03:45,644 [main] INFO  (LogUtil.java:17) - 	S.3- Scenario Finish: Subscription start in HomePage STATUS= PASSED
+2020-03-21 15:03:45,657 [main] INFO  (LogUtil.java:17) - 	S.4- Scenario Start: Register to One Month(Monthly Pass with One Week Free Trial) package in SubscribePage Test in BeinSports
+2020-03-21 15:03:45,664 [main] INFO  (LogUtil.java:17) -  		SubscribePage created for BeinSports
+2020-03-21 15:03:45,665 [main] INFO  (LogUtil.java:17) -  			 Wait for the new page to load. in SubscribePage for BeinSports
+2020-03-21 15:03:46,948 [main] INFO  (LogUtil.java:17) -  			 Click on subscription name button. in SubscribePage for BeinSports
+2020-03-21 15:03:47,328 [main] INFO  (LogUtil.java:17) -  			 Click on One Week Free Trial package. in SubscribePage for BeinSports
+2020-03-21 15:03:47,704 [main] INFO  (LogUtil.java:17) - 	S.4- Scenario Finish: Register to One Month(Monthly Pass with One Week Free Trial) package in SubscribePage STATUS= PASSED
+2020-03-21 15:03:47,706 [main] INFO  (LogUtil.java:17) - 	S.5- Scenario Start: Creating an Account in CreateAccountPage Test in BeinSports
+2020-03-21 15:03:47,708 [main] INFO  (LogUtil.java:17) -  		CreateAccountPage created for BeinSports
+2020-03-21 15:03:47,709 [main] INFO  (LogUtil.java:17) -  			 Wait for the new page to load. in CreateAccountPage for BeinSports
+2020-03-21 15:03:56,596 [main] INFO  (LogUtil.java:17) -  			 Set text to the firstName. in CreateAccountPage for BeinSports
+2020-03-21 15:03:56,811 [main] INFO  (LogUtil.java:17) -  			 Set text to the lastName. in CreateAccountPage for BeinSports
+2020-03-21 15:03:57,008 [main] INFO  (LogUtil.java:17) -  			 Set text to the Email. in CreateAccountPage for BeinSports
+2020-03-21 15:03:57,245 [main] INFO  (LogUtil.java:17) -  			 Set text to the Password. in CreateAccountPage for BeinSports
+2020-03-21 15:03:57,384 [main] INFO  (LogUtil.java:17) -  			 Click on Privacy Policy. in CreateAccountPage for BeinSports
+2020-03-21 15:03:57,520 [main] INFO  (LogUtil.java:17) -  			 Click on Create Account. in CreateAccountPage for BeinSports
+2020-03-21 15:03:57,795 [main] INFO  (LogUtil.java:17) - 	S.5- Scenario Finish: Creating an Account in CreateAccountPage STATUS= PASSED
+2020-03-21 15:03:57,800 [main] INFO  (LogUtil.java:17) - 	S.6- Scenario Start: Make Payment with Credit Card in PaymentMethodPage Test in BeinSports
+2020-03-21 15:03:57,803 [main] INFO  (LogUtil.java:17) -  		PaymentMethodPage created for BeinSports
+2020-03-21 15:03:57,803 [main] INFO  (LogUtil.java:17) -  			 Wait for the new page to load. in PaymentMethodPage for BeinSports
